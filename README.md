@@ -8,9 +8,12 @@ Optimus made easy
 </div>
 <br>
 
-# 👁‍🗨 EnvyControl
+# 👁‍🗨 EnvyControl with VFIO
 
-EnvyControl is a CLI tool that provides an easy way to switch between GPU modes on Nvidia Optimus systems (i.e laptops with hybrid Intel + Nvidia or AMD + Nvidia graphics configurations) under Linux.
+The goal of this project uses EnvyContol with better support for desktops & specially VFIO.
+
+
+**EnvyControl** is a CLI tool that provides an easy way to switch between GPU modes on Nvidia Optimus systems (i.e laptops with hybrid Intel + Nvidia or AMD + Nvidia graphics configurations) under Linux.
 
 ### 📖 License
 
